@@ -41,7 +41,7 @@
 Cliquer sur l'icone verte "CODE" \
 <img width="136" height="55" alt="image" src="https://github.com/user-attachments/assets/7fbaa11b-f0e4-4fd9-b16f-4bb1caab8ea8" />
 
-Choisir "Download ZIP file"
+Choisir "Download ZIP"
 
 Enregistrer l'archive ZIP sur l'ordinateur, la décompresser, tout est dedans.
 

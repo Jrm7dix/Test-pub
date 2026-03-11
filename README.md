@@ -4,7 +4,7 @@
 
 <br>
 
-**CAD_Files** : les fichiers au format Logiciel 3D.
+**CAD_Files** : les fichiers au format logiciel 3D.
 
 **STL** : les fichiers au format d'impression 3D (Cura, Prusaslicer, etc.).
 

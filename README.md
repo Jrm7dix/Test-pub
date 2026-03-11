@@ -11,7 +11,7 @@
 
 **Pour télécharger un fichier CAD ou STL :**
 
-1) Dans la colonne sur la gauche, cliquer sur le dossier voulu \
+1) Cliquer sur le dossier voulu : \
    <img width="158" height="71" alt="image" src="https://github.com/user-attachments/assets/6c9e0cc0-24bb-4541-970b-b180a53c0df6" />
 
 2) Cliquer sur le fichier à télécharger.

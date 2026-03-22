@@ -1,5 +1,6 @@
 # Nacelle Paramoteur
-*Test repo en accès public*\
+
+*Nacelle paramoteur pour voile de 2m d'envergure.*\
 *Mars 2026*
 
 <img width="408" height="392" alt="image" src="https://github.com/user-attachments/assets/bc7db9ee-fd4a-4013-9a11-08a8e928ce2d" />

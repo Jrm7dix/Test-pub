@@ -28,6 +28,8 @@ Choisir "Download ZIP" ;
 
 Enregistrer l'archive ZIP sur l'ordinateur, la décompresser, tout est dedans.
 
+<br>
+
 ***
 
 **Pour télécharger un fichier CAD ou STL :**
